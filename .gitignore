@@ -1,0 +1,20 @@
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+/bin/
+/build/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
